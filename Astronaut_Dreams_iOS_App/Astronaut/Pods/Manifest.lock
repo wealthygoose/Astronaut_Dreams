@@ -1,0 +1,26 @@
+PODS:
+  - Font-Awesome-Swift (1.7.2)
+  - IQKeyboardManagerSwift (6.1.1)
+  - SwiftMessages (6.0.0):
+    - SwiftMessages/App (= 6.0.0)
+  - SwiftMessages/App (6.0.0)
+
+DEPENDENCIES:
+  - Font-Awesome-Swift
+  - IQKeyboardManagerSwift
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Font-Awesome-Swift
+    - IQKeyboardManagerSwift
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Font-Awesome-Swift: 83ab9db365379ee6025167cec67bdc5d3226a811
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  SwiftMessages: da7c981256a65b3e58022d9027a36584cf4eccf5
+
+PODFILE CHECKSUM: adc1ed4fe80f01826530a546417925bdb2b35a78
+
+COCOAPODS: 1.5.3
