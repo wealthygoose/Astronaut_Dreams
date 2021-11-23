@@ -229,7 +229,7 @@ class newentry: UIViewController, UITextViewDelegate {
         
     }
     
-    
+    //This a test for commit
     override func viewDidLoad() {
         super.viewDidLoad()
 
