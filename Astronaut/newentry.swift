@@ -30,6 +30,7 @@ class newentry: UIViewController, UITextViewDelegate {
     var selectedtag = ""
     var tagnames = [String]()
 
+    // Hello world 2
     
     //Submit button function
     @IBAction func submit_dream_entry(_ sender: Any) {
