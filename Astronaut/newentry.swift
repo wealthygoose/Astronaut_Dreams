@@ -13,6 +13,7 @@ import SwiftMessages
 
 class newentry: UIViewController, UITextViewDelegate {
     
+    // hello world
     
     //UI Elements
     @IBOutlet weak var date_label: UIButton!
@@ -20,6 +21,7 @@ class newentry: UIViewController, UITextViewDelegate {
     @IBOutlet weak var select_label: UIButton!
     @IBOutlet weak var submit_button_outlet: UIButton!
     
+    var test = ["a", "b", true, "hi", 1]
     
     //Variables
     var tagplat = UIScrollView()
